@@ -1,0 +1,1 @@
+Expensify is a Modern and responsive Expense Management System. It is developed by Javascript and JSX and React Native framework. It is designed and developed for expense management and keep records of your recent and past expenses easily and efficiently.
